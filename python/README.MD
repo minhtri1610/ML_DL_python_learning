@@ -1,0 +1,3 @@
+- [Python cơ bản](/python/01-practice.ipynb)
+- [Numpy](/python/Numpy/01-array.ipynb)
+- [Tensorflow](/python/Tensorflow/)
